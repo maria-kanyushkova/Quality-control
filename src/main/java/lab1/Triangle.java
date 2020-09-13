@@ -2,14 +2,10 @@ package lab1;
 
 public class Triangle {
     public static void main(String[] args) {
-        try {
-            System.out.println(checkTriangle(args));
-        } catch (Exception e) {
-            System.out.println("Ошибка");
-        }
+        System.out.println(checkTriangle(args));
     }
 
-    public static String checkTriangle(String[] args) throws Exception {
+    public static String checkTriangle(String[] args) {
         if (isCorrectInput(args)) {
             double[] doubleArray = new double[3];
             doubleArray[0] = Double.parseDouble(args[0]);
@@ -18,16 +14,16 @@ public class Triangle {
             if (isTriangleReal(doubleArray)) {
                 return typeOfTriangle(doubleArray);
             } else {
-                throw new Exception();
+                return "Ошибка";
             }
         } else {
-            throw new Exception();
+            return "Ошибка";
         }
     }
 
-    public static boolean isCorrectInput(String[] args) throws Exception {
+    public static boolean isCorrectInput(String[] args) {
         if (args.length != 3) {
-            throw new Exception();
+            return false;
         }
         return checkArgument(args[0]) && checkArgument(args[1]) && checkArgument(args[2]);
     }
