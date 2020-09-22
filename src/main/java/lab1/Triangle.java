@@ -45,7 +45,7 @@ public class Triangle {
     private static boolean checkArgument(String arg) {
         if (isDigit(arg)) {
             double number = Double.parseDouble(arg);
-            return Double.MIN_VALUE <= number && number <= Double.MAX_VALUE;
+            return 0 < number && number <= Double.MAX_VALUE;
         }
         return false;
     }
