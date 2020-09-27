@@ -1,0 +1,15 @@
+code: 0 -- tel://1234567920
+code: 0 -- mailto:info@yoursite.com
+code: 401 -- http://91.210.252.240/links/access401unauthorized.php
+code: 403 -- http://91.210.252.240/links/deny403forbidden.php
+code: 500 -- http://91.210.252.240/links/return500bad.php
+code: 500 -- http://91.210.252.240/links/teapot418.php
+code: 404 -- http://91.210.252.240/links/404not404found404.php
+code: 502 -- http://91.210.252.240/links/502gateaway502.php
+code: 423 -- http://91.210.252.240/links/locked.php
+code: 503 -- http://91.210.252.240/links/un503availible.php
+code: 204 -- http://91.210.252.240/links/no204content.php
+code: 301 -- http://91.210.252.240/links/movedper.php
+code: 302 -- http://91.210.252.240/links/found302.php
+count of links: 13
+2020-09-27 21:57:57
