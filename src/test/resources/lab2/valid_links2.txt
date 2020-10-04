@@ -1,0 +1,12 @@
+code: 200 -- http://91.210.252.240/broken-links/index.html
+code: 200 -- http://91.210.252.240/broken-links/about.html
+code: 200 -- http://91.210.252.240/broken-links/work.html
+code: 200 -- http://91.210.252.240/broken-links/pricing.html
+code: 200 -- http://91.210.252.240/broken-links/blog.html
+code: 200 -- http://91.210.252.240/broken-links/contact.html
+code: 200 -- http://91.210.252.240/broken-links/#
+code: 200 -- http://91.210.252.240/broken-links/blog-single.html
+code: 200 -- https://colorlib.com
+code: 200 -- http://91.210.252.240/broken-links
+count of links: 10
+2020-10-04 15:58:05
