@@ -43,7 +43,7 @@ public class BrokenLink2 {
     public static int getResponseCode(String link) {
         URL url;
         HttpURLConnection con = null;
-        Integer responseCode = 0;
+        int responseCode = 0;
         try {
             url = new URL(link);
             con = (HttpURLConnection) url.openConnection();
@@ -55,14 +55,5 @@ public class BrokenLink2 {
                 con.disconnect();
         }
         return responseCode;
-    }
-
-    public static boolean isValidLink(String link) {
-        try {
-            new URI(link).parseServerAuthority();
-            return true;
-        } catch (URISyntaxException e) {
-            return false;
-        }
     }
 }
