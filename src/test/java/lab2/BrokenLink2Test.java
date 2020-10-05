@@ -30,9 +30,9 @@ public class BrokenLink2Test {
             String strDate = dateFormat.format(date);
             for (Map.Entry<Integer, List<String>> code : codes.entrySet()) {
                 System.out.println(code);
-                if (code.getKey() == 200) {
+                if (code.getKey() >= 200 && code.getKey() < 300) {
                     for (String link : code.getValue()) {
-                        validWriter.write("code: 200 -- " + link + "\n");
+                        validWriter.write("code: " + code.getKey() + " -- " + link + "\n");
                         countOfValidLinks++;
                     }
                 } else {
