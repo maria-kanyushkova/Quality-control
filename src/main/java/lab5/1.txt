@@ -1,0 +1,21 @@
+Family: Arial
+Style: Regular, Bold, Italic, Bold Italic
+Size: 8, 9, 10, 11, 12, 14, 16, 18, 20, 22, 24, 28, 36, 48, 72
+Color: Auto, color
+Underline: No, Only_word, Single, Double, Single_bold, Dots, Dots_bold, Dashes, Dashes_bold, Dashes_long, Dashes_long_bold, Dashes_dots, Dashes_dots_bold, Dashes_2_dots, Dashes_2_dots_bold, Wave, Wave_bold, Wave_double
+Underline_color: None, Auto, color
+Сrossed_out: true, false
+Double_strikethrough: true, false
+Superscript: true, false
+Subscript: true, false
+Small_caps: true, false
+All_uppercase: true, false
+Hidden: true, false
+
+{Family, Style, Size, Color, Underline, Underline_color, Сrossed_out, Double_strikethrough, Superscript, Subscript, Small_caps, All_uppercase, Hidden} @ 1
+
+IF [Underline] = "No" THEN [Underline_color] = "None";
+IF [Underline_color] = "None" THEN [Underline] = "No";
+IF [Сrossed_out] = "true" THEN [Double_strikethrough] = "false";
+IF [Superscript] = "true" THEN [Subscript] = "false";
+IF [Small_caps] = "true" THEN [All_uppercase] = "false";
