@@ -3,12 +3,12 @@
 ## 1. Задачи на Pairwise
 Составить тестовые наборы для проверки функциональности: Свойства шрифта в PowerPoint
 
-[logo]: https://github.com/maria-kanyushkova/Quality-control/tree/master/tasks/images/5_1.png "5.1"
+[task](https://github.com/maria-kanyushkova/Quality-control/blob/master/tasks/images/5_1.png "5.1")
 
 ## 2. Диаграмма состояний
 Составить тестовые сценарии для диаграммы состояний ввода PIN-а в банкомате:
 
-[logo]: https://github.com/maria-kanyushkova/Quality-control/tree/master/tasks/images/5_2.png "5.2"
+[task2](https://github.com/maria-kanyushkova/Quality-control/blob/master/tasks/images/5_3.png "5.3")
 
 ## 3. Таблица решений
 Составьте таблицу решений для следующей задачи.
