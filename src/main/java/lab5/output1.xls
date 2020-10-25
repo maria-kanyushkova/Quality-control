@@ -1,19 +1,40 @@
-Family	Style	Size	Color	Underline	Underline_color	Сrossed_out	Double_strikethrough	Superscript	Subscript	Small_caps	All_uppercase	Hidden
-Arial	Italic	16	Auto	Dashes_2_dots	Auto	false	true	true	false	false	false	false
-Arial	Italic	36	color	Only_word	Auto	true	false	false	true	true	false	false
-Arial	Bold Italic	20	color	Dashes	Auto	false	false	true	false	true	false	false
-Arial	Bold Italic	48	color	Dots_bold	Auto	true	false	true	false	false	false	false
-Arial	Regular	22	color	Single_bold	Auto	false	true	false	true	false	false	true
-Arial	Bold Italic	8	Auto	Dashes_2_dots_bold	color	true	false	true	false	true	false	true
-Arial	Regular	36	Auto	Double	Auto	false	false	false	true	true	false	true
-Arial	Bold	24	Auto	Dashes_bold	color	true	false	true	false	false	false	true
-Arial	Italic	10	color	Wave_double	color	false	true	false	false	true	false	true
-Arial	Bold Italic	9	color	Wave	color	true	false	true	false	true	false	true
-Arial	Bold	28	color	Dashes_long_bold	color	true	false	false	true	false	true	true
-Arial	Regular	24	color	Dashes_long	Auto	false	false	true	false	false	true	false
-Arial	Bold Italic	12	Auto	Dashes_dots_bold	color	false	false	false	true	false	true	false
-Arial	Regular	72	color	Wave_bold	color	true	false	true	false	false	true	true
-Arial	Italic	18	Auto	Single	Auto	true	false	false	true	false	false	true
-Arial	Bold Italic	11	Auto	Dots	Auto	true	false	false	false	false	true	false
-Arial	Regular	14	Auto	No	None	true	false	false	false	true	false	false
-Arial	Regular	18	color	Dashes_dots	color	false	false	false	true	false	true	true
+Font	Size	Inscription	Text color	Underline	Underline_color	Crossed_out	Double_strikethrough	Superscript	Subscript	Shift	Small_caps	All_uppercase	Align_height_of_characters
+Verdana	1	Bold italic	White	Wavy	Black	false	false	false	true	1	true	false	false
+Verdana	70	Usual	Black	Line	White	false	true	false	true	50	false	true	true
+Times New Roman	12	Bold	Red	Dotted	Red	true	false	false	true	1	false	false	true
+Arial	20	Italic	Red	None	None	false	true	true	false	-100	false	true	false
+Verdana	12	Italic	Black	Line	White	true	false	true	false	-100	true	false	true
+Arial	20	Bold italic	White	None	None	true	false	false	true	1	false	true	true
+Times New Roman	1	Bold	White	Dotted	Black	false	true	false	true	50	false	true	false
+Calibri	70	Usual	Black	Wavy	Red	false	true	false	false	0	true	false	false
+Calibri	70	Italic	Red	Wavy	Black	true	false	false	true	50	false	true	true
+Courier New	12	Bold	Black	None	None	false	true	false	true	100	true	false	false
+Times New Roman	70	Bold italic	White	Dotted	White	false	true	true	false	-50	false	true	false
+Arial	1	Usual	Red	Line	Black	true	false	true	false	-50	true	false	true
+Times New Roman	20	Bold	White	Line	Red	true	false	true	false	-100	false	true	false
+Courier New	12	Bold italic	Black	Wavy	Red	true	false	true	false	-50	false	true	true
+Calibri	20	Usual	White	None	None	true	false	true	false	-50	true	false	true
+Verdana	1	Italic	Black	Dotted	Red	false	true	true	false	-50	true	false	false
+Arial	20	Bold	Red	Wavy	White	true	false	false	false	0	false	true	true
+Arial	12	Usual	Black	Dotted	Red	true	false	true	false	-1	true	false	true
+Calibri	1	Bold italic	White	Dotted	White	true	false	false	true	100	false	true	true
+Times New Roman	1	Italic	White	None	None	false	true	false	false	0	true	false	true
+Courier New	20	Bold italic	Black	Line	Black	false	true	false	true	50	true	false	false
+Verdana	70	Bold italic	Red	None	None	false	true	false	false	0	false	true	true
+Verdana	20	Bold	White	Wavy	Black	false	true	true	false	-1	false	true	false
+Calibri	12	Bold	White	Dotted	Black	false	false	true	false	-100	false	false	false
+Times New Roman	20	Usual	Red	Wavy	Red	true	false	false	true	100	false	true	true
+Courier New	1	Usual	Red	Dotted	White	false	true	true	false	-100	false	true	false
+Arial	70	Bold	Black	None	None	true	false	false	true	50	false	true	true
+Arial	70	Italic	White	Line	Black	false	false	false	true	100	false	true	true
+Courier New	70	Italic	Red	Line	White	false	true	true	false	-1	true	false	true
+Calibri	70	Usual	Black	Line	White	false	true	false	true	1	false	true	true
+Verdana	20	Bold	Red	Dotted	Black	true	false	false	true	100	false	true	true
+Times New Roman	70	Bold italic	Black	Wavy	White	false	false	true	false	-100	false	true	true
+Calibri	1	Bold italic	White	None	None	false	true	true	false	-1	false	true	true
+Courier New	20	Italic	White	Wavy	Black	false	true	false	true	1	false	true	true
+Courier New	12	Bold	Black	Dotted	Black	false	true	false	false	0	true	false	true
+Times New Roman	12	Bold	Red	Wavy	Red	false	false	true	false	-50	false	true	false
+Courier New	12	Italic	White	Wavy	Red	false	false	false	true	50	false	true	true
+Calibri	70	Usual	White	Line	Red	false	true	false	false	0	false	false	true
+Times New Roman	70	Usual	Red	Line	White	true	false	true	false	-1	false	true	true
