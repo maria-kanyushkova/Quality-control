@@ -1,5 +1,5 @@
 Font: Verdana, Arial, Times New Roman, Calibri, Courier New
-Size: 1, 12, 20, 70
+Size: 1, 20, 70.5, 4000
 Inscription: Usual, Italic, Bold, Bold italic
 Text color: White, Black, Red
 Underline: None, Line, Dotted, Wavy
