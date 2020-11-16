@@ -1,4 +1,4 @@
-#Наименования багов:
+# Наименования багов:
 
 ## 1. Не создается профиль пользователя
 **Priority:** Blocker
@@ -761,7 +761,7 @@
 ![bug45](https://github.com/maria-kanyushkova/Quality-control/blob/master/src/main/resources/lab7/45.jpg)
 
 ## 46. Нельзя проверить работу логинации пользователя
-**Priority:** Minor
+**Priority:** Critical
 
 **Device:** iPhone 7 iOs 14 Safari
 
