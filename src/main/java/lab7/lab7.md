@@ -1,6 +1,6 @@
 #Наименования багов:
 
-### 1. Не создается профиль пользователя
+## 1. Не создается профиль пользователя
 **Priority:** Blocker
 
 **Device:** Windows Chrome 86.0.4240.75
@@ -23,7 +23,7 @@
 
 ![bug1](https://github.com/maria-kanyushkova/Quality-control/blob/master/src/main/resources/lab7/1.jpg)
 
-### 2. Нельзя прочесть ошибку регистрации
+## 2. Нельзя прочесть ошибку регистрации
 **Priority:** Major
 
 **Device:** Windows Chrome 86.0.4240.75
@@ -46,7 +46,7 @@
 
 ![bug2](https://github.com/maria-kanyushkova/Quality-control/blob/master/src/main/resources/lab7/2.jpg)
 
-### 3. Некорректно высчитывается скидка на товар
+## 3. Некорректно высчитывается скидка на товар
 **Priority:** Minor
 
 **Device:** Windows Chrome 86.0.4240.75
@@ -62,7 +62,7 @@
 
 ![bug3](https://github.com/maria-kanyushkova/Quality-control/blob/master/src/main/resources/lab7/3.jpg)
 
-### 4. Не корректно подгружается страница при изменении фильтров
+## 4. Не корректно подгружается страница при изменении фильтров
 **Priority:** Critical
 
 **Device:** Windows Chrome 86.0.4240.75
@@ -80,7 +80,7 @@
 
 ![bug4](https://github.com/maria-kanyushkova/Quality-control/blob/master/src/main/resources/lab7/4.jpg)
 
-### 5. Не отображается первоначальная цена после применения скидки
+## 5. Не отображается первоначальная цена после применения скидки
 **Priority:** Minor
 
 **Device:** Windows Chrome 86.0.4240.75
@@ -97,7 +97,7 @@
 
 ![bug5](https://github.com/maria-kanyushkova/Quality-control/blob/master/src/main/resources/lab7/5.jpg)
 
-### 6. Отрицательная стоимость товара
+## 6. Отрицательная стоимость товара
 **Priority:** Major
 
 **Device:** Windows Chrome 86.0.4240.75
@@ -114,7 +114,7 @@
 
 ![bug6](https://github.com/maria-kanyushkova/Quality-control/blob/master/src/main/resources/lab7/6.jpg)
 
-### 7. Показывается скидка на товар, где скидки нет
+## 7. Показывается скидка на товар, где скидки нет
 **Priority:** Minor
 
 **Device:** Windows Chrome 86.0.4240.75
@@ -131,7 +131,7 @@
 
 ![bug7](https://github.com/maria-kanyushkova/Quality-control/blob/master/src/main/resources/lab7/7.jpg)
 
-### 8. Некорректное именование фильтров в поиске
+## 8. Некорректное именование фильтров в поиске
 **Priority:** Trivial
 
 **Device:** Windows Chrome 86.0.4240.75
@@ -147,7 +147,7 @@
 
 ![bug8](https://github.com/maria-kanyushkova/Quality-control/blob/master/src/main/resources/lab7/8.jpg)
 
-### 9. Некорректное применение фильтров цвета товара в поиске
+## 9. Некорректное применение фильтров цвета товара в поиске
 **Priority:** Critical
 
 **Device:** Windows Chrome 86.0.4240.75
@@ -162,7 +162,7 @@
 **Expected Result:**
 Фильтр цвета применяется
 
-### 10. При нажатии на кнопку "в конец списка" в пагинации, показывается, что нет товара
+## 10. При нажатии на кнопку "в конец списка" в пагинации, показывается, что нет товара
 **Priority:** Minor
 
 **Device:** Windows Chrome 86.0.4240.75
@@ -180,7 +180,7 @@
 
 ![bug10](https://github.com/maria-kanyushkova/Quality-control/blob/master/src/main/resources/lab7/10.jpg)
 
-### 11. Показывается некорректное количество товаров
+## 11. Показывается некорректное количество товаров
 **Priority:** Minor
 
 **Device:** Windows Chrome 86.0.4240.75
@@ -197,7 +197,7 @@
 
 ![bug11](https://github.com/maria-kanyushkova/Quality-control/blob/master/src/main/resources/lab7/11.jpg)
 
-### 12. Не подгрузились шрифты для фильтров
+## 12. Не подгрузились шрифты для фильтров
 **Priority:** Minor
 
 **Device:** Windows Chrome 86.0.4240.75
@@ -213,7 +213,7 @@
 
 ![bug12](https://github.com/maria-kanyushkova/Quality-control/blob/master/src/main/resources/lab7/12.jpg)
 
-### 13. Не работает поиск
+## 13. Не работает поиск
 **Priority:** Critical
 
 **Device:** Windows Chrome 86.0.4240.75
@@ -229,7 +229,7 @@
 
 ![bug13](https://github.com/maria-kanyushkova/Quality-control/blob/master/src/main/resources/lab7/13.jpg)
 
-### 14. Не соответствует количество отзывов в оценке и reviews
+## 14. Не соответствует количество отзывов в оценке и reviews
 **Priority:** Minor
 
 **Device:** Windows Chrome 86.0.4240.75
@@ -246,7 +246,7 @@
 
 ![bug14](https://github.com/maria-kanyushkova/Quality-control/blob/master/src/main/resources/lab7/14.jpg)
 
-### 15. Можно добавить в корзину отрицательное количество товаров
+## 15. Можно добавить в корзину отрицательное количество товаров
 **Priority:** Critical
 
 **Device:** Windows Chrome 86.0.4240.75
@@ -265,7 +265,7 @@
 
 ![bug15](https://github.com/maria-kanyushkova/Quality-control/blob/master/src/main/resources/lab7/15.jpg)
 
-### 16. Можно добавить в корзину товар, не выбрав все параметры
+## 16. Можно добавить в корзину товар, не выбрав все параметры
 **Priority:** Critical
 
 **Device:** Windows Chrome 86.0.4240.75
@@ -284,7 +284,7 @@
 ![bug161](https://github.com/maria-kanyushkova/Quality-control/blob/master/src/main/resources/lab7/16-1.jpg)
 ![bug16-2](https://github.com/maria-kanyushkova/Quality-control/blob/master/src/main/resources/lab7/16-2.jpg)
 
-### 17. Можно добавить в корзину бесконечное количество товаров
+## 17. Можно добавить в корзину бесконечное количество товаров
 **Priority:** Minor
 
 **Device:** Windows Chrome 86.0.4240.75
@@ -303,7 +303,7 @@
 
 ![bug17](https://github.com/maria-kanyushkova/Quality-control/blob/master/src/main/resources/lab7/17.jpg)
 
-### 18. Не оформляется заказ с корзины
+## 18. Не оформляется заказ с корзины
 **Priority:** Blocker
 
 **Device:** Windows Chrome 86.0.4240.75
@@ -329,7 +329,7 @@
 
 ![bug18](https://github.com/maria-kanyushkova/Quality-control/blob/master/src/main/resources/lab7/18.jpg)
 
-### 19. Не получается подписаться на рассылку
+## 19. Не получается подписаться на рассылку
 **Priority:** Major
 
 **Device:** Windows Chrome 86.0.4240.75
@@ -345,7 +345,7 @@
 **Expected Result:**
 Произошла подписка на обновления и рекламу
 
-### 20. При клике на производителей часов не переходит в их каталог
+## 20. При клике на производителей часов не переходит в их каталог
 **Priority:** Minor
 
 **Device:** Windows Chrome 86.0.4240.75
@@ -362,7 +362,7 @@
 
 ![bug20](https://github.com/maria-kanyushkova/Quality-control/blob/master/src/main/resources/lab7/20.jpg)
 
-### 21. Не переходит на страницу Facebook от Luxury watches
+## 21. Не переходит на страницу Facebook от Luxury watches
 **Priority:** Minor
 
 **Device:** Windows Chrome 86.0.4240.75
@@ -377,7 +377,7 @@
 **Expected Result:**
 Переход на Facebook
 
-### 22. Не переходит на страницу Twitter от Luxury watches
+## 22. Не переходит на страницу Twitter от Luxury watches
 **Priority:** Minor
 
 **Device:** Windows Chrome 86.0.4240.75
@@ -392,7 +392,7 @@
 **Expected Result:**
 Переход на Twitter
 
-### 23. Не переходит на страницу Google+ от Luxury watches
+## 23. Не переходит на страницу Google+ от Luxury watches
 **Priority:** Minor
 
 **Device:** Windows Chrome 86.0.4240.75
@@ -407,7 +407,7 @@
 **Expected Result:**
 Переход на Google+
 
-### 24. Не переходит на страницу Specials
+## 24. Не переходит на страницу Specials
 **Priority:** Minor
 
 **Device:** Windows Chrome 86.0.4240.75
@@ -422,7 +422,7 @@
 **Expected Result:**
 Переход на страницу Specials
 
-### 25. Не переходит на страницу New Production
+## 25. Не переходит на страницу New Production
 **Priority:** Minor
 
 **Device:** Windows Chrome 86.0.4240.75
@@ -437,7 +437,7 @@
 **Expected Result:**
 Переход на страницу New Production
 
-### 26. Не переходит на страницу Our Stores
+## 26. Не переходит на страницу Our Stores
 **Priority:** Minor
 
 **Device:** Windows Chrome 86.0.4240.75
@@ -452,7 +452,7 @@
 **Expected Result:**
 Переход на страницу Our Stores
 
-### 27. Не переходит на страницу Contact Us
+## 27. Не переходит на страницу Contact Us
 **Priority:** Minor
 
 **Device:** Windows Chrome 86.0.4240.75
@@ -469,7 +469,7 @@
 
 ![bug27](https://github.com/maria-kanyushkova/Quality-control/blob/master/src/main/resources/lab7/27.jpg)
 
-### 28. Не переходит на страницу Top Sellers
+## 28. Не переходит на страницу Top Sellers
 **Priority:** Minor
 
 **Device:** Windows Chrome 86.0.4240.75
@@ -484,7 +484,7 @@
 **Expected Result:**
 Переход на страницу Top Sellers
 
-### 29. Не отображается страница My Account
+## 29. Не отображается страница My Account
 **Priority:** Minor
 
 **Device:** Windows Chrome 86.0.4240.75
@@ -501,7 +501,7 @@
 
 ![bug29](https://github.com/maria-kanyushkova/Quality-control/blob/master/src/main/resources/lab7/29.jpg)
 
-### 30. Не переходит на страницу My Credit slips
+## 30. Не переходит на страницу My Credit slips
 **Priority:** Minor
 
 **Device:** Windows Chrome 86.0.4240.75
@@ -516,7 +516,7 @@
 **Expected Result:**
 Переход на страницу My Credit slips
 
-### 31. Не переходит на страницу My Merchendise returns
+## 31. Не переходит на страницу My Merchendise returns
 **Priority:** Minor
 
 **Device:** Windows Chrome 86.0.4240.75
@@ -531,7 +531,7 @@
 **Expected Result:**
 Переход на страницу My Merchendise returns
 
-### 32. Не переходит на страницу My Personal info
+## 32. Не переходит на страницу My Personal info
 **Priority:** Minor
 
 **Device:** Windows Chrome 86.0.4240.75
@@ -546,7 +546,7 @@
 **Expected Result:**
 Переход на страницу My Personal info
 
-### 33. Не переходит на страницу My Addresses
+## 33. Не переходит на страницу My Addresses
 **Priority:** Minor
 
 **Device:** Windows Chrome 86.0.4240.75
@@ -561,7 +561,7 @@
 **Expected Result:**
 Переход на страницу My Addresses
 
-### 34. Не отображается информация о товаре
+## 34. Не отображается информация о товаре
 **Priority:** Minor
 
 **Device:** Windows Chrome 86.0.4240.75
@@ -578,7 +578,7 @@
 
 ![bug34](https://github.com/maria-kanyushkova/Quality-control/blob/master/src/main/resources/lab7/34.jpg)
 
-### 35. Не отображается корректно слайдер в профиле товара
+## 35. Не отображается корректно слайдер в профиле товара
 **Priority:** Minor
 
 **Device:** Windows Chrome 86.0.4240.75
@@ -595,7 +595,7 @@
 
 ![bug35](https://github.com/maria-kanyushkova/Quality-control/blob/master/src/main/resources/lab7/35.jpg)
 
-### 36. Не получается посмотреть отзывы о товаре
+## 36. Не получается посмотреть отзывы о товаре
 **Priority:** Minor
 
 **Device:** Windows Chrome 86.0.4240.75
@@ -610,7 +610,7 @@
 **Expected Result:**
 Появляются отзывы о товаре
 
-### 37. Поле подписки на рассылку не выровнено
+## 37. Поле подписки на рассылку не выровнено
 **Priority:** Minor
 
 **Device:** Windows Chrome 86.0.4240.75
@@ -626,7 +626,7 @@
 
 ![bug37](https://github.com/maria-kanyushkova/Quality-control/blob/master/src/main/resources/lab7/37.jpg)
 
-### 38. Кнопки header menu не выровнены по высоте
+## 38. Кнопки header menu не выровнены по высоте
 **Priority:** Trivial
 
 **Device:** Windows Chrome 86.0.4240.75
@@ -642,7 +642,7 @@
 
 ![bug38](https://github.com/maria-kanyushkova/Quality-control/blob/master/src/main/resources/lab7/38.jpg)
 
-### 39. Имеется не обновленный до текущего года копирайтинг
+## 39. Имеется не обновленный до текущего года копирайтинг
 **Priority:** Trivial
 
 **Device:** Windows Chrome 86.0.4240.75
@@ -658,7 +658,7 @@
 
 ![bug39](https://github.com/maria-kanyushkova/Quality-control/blob/master/src/main/resources/lab7/39.jpg)
 
-### 40. Поле поиска имеет маленький размер
+## 40. Поле поиска имеет маленький размер
 **Priority:** Minor
 
 **Device:** iPhone 7 iOs 14 Safari
@@ -674,7 +674,7 @@
 
 ![bug40](https://github.com/maria-kanyushkova/Quality-control/blob/master/src/main/resources/lab7/40.jpg)
 
-### 41. Кнопки header menu не выровнены по высоте (мобилка)
+## 41. Кнопки header menu не выровнены по высоте (мобилка)
 **Priority:** Minor
 
 **Device:** iPhone 7 iOs 14 Safari
@@ -690,7 +690,7 @@
 
 ![bug41](https://github.com/maria-kanyushkova/Quality-control/blob/master/src/main/resources/lab7/41.jpg)
 
-### 42. Не отображается корректно информация о товаре (мобилки)
+## 42. Не отображается корректно информация о товаре (мобилки)
 **Priority:** Minor
 
 **Device:** iPhone 7 iOs 14 Safari
@@ -707,7 +707,7 @@
 
 ![bug42](https://github.com/maria-kanyushkova/Quality-control/blob/master/src/main/resources/lab7/42.jpg)
 
-### 43. Съехали кнопки добавления товара в корзину (мобилки)
+## 43. Съехали кнопки добавления товара в корзину (мобилки)
 **Priority:** Minor
 
 **Device:** iPhone 7 iOs 14 Safari
@@ -724,7 +724,7 @@
 
 ![bug43](https://github.com/maria-kanyushkova/Quality-control/blob/master/src/main/resources/lab7/43.jpg)
 
-### 44. Некорректное отображение корзины на мобильных устройствах
+## 44. Некорректное отображение корзины на мобильных устройствах
 **Priority:** Minor
 
 **Device:** iPhone 7 iOs 14 Safari
@@ -742,7 +742,7 @@
 
 ![bug44](https://github.com/maria-kanyushkova/Quality-control/blob/master/src/main/resources/lab7/44.jpg)
 
-### 45. Некорректное отображение кнопок управления корзины на мобильных устройствах
+## 45. Некорректное отображение кнопок управления корзины на мобильных устройствах
 **Priority:** Minor
 
 **Device:** iPhone 7 iOs 14 Safari
@@ -760,7 +760,7 @@
 
 ![bug45](https://github.com/maria-kanyushkova/Quality-control/blob/master/src/main/resources/lab7/45.jpg)
 
-### 46. Нельзя проверить работу логинации пользователя
+## 46. Нельзя проверить работу логинации пользователя
 **Priority:** Minor
 
 **Device:** iPhone 7 iOs 14 Safari
