@@ -1,0 +1,8 @@
+{"message":"[mb:2525] mountebank v2.3.3 now taking orders - point your browser to http://localhost:2525/ for help","level":"info","timestamp":"2020-12-12T11:24:53.957Z"}
+{"message":"[mb:2525] GET /images/book.jpg","level":"info","timestamp":"2020-12-12T11:24:54.412Z"}
+{"message":"[mb:2525] POST /imposters","level":"info","timestamp":"2020-12-12T11:25:01.369Z"}
+{"message":"[http:4545] Open for business...","level":"info","timestamp":"2020-12-12T11:25:01.387Z"}
+{"message":"[mb:2525] GET /images/book.jpg","level":"info","timestamp":"2020-12-12T11:25:03.575Z"}
+{"message":"[http:4545] ::ffff:127.0.0.1:55840 => GET /currency/eur","level":"info","timestamp":"2020-12-12T11:28:53.539Z"}
+{"message":"[http:4545] ::ffff:127.0.0.1:55841 => GET /currency/usd","level":"info","timestamp":"2020-12-12T11:28:53.549Z"}
+{"message":"[http:4545] ::ffff:127.0.0.1:55842 => GET /currency/yena","level":"info","timestamp":"2020-12-12T11:28:53.551Z"}
