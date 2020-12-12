@@ -1,0 +1,90 @@
+{
+  "port": 4545,
+  "protocol": "http",
+  "stubs": [
+    {
+      "predicates": [
+        {
+          "and": [
+            {
+              "equals": {
+                "path": "/currency/usd",
+                "method": "GET"
+              }
+            }
+          ]
+        }
+      ],
+      "responses": [
+        {
+          "is": {
+            "body": {
+              "usd": {
+                "value": 30.12
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "predicates": [
+        {
+          "and": [
+            {
+              "equals": {
+                "path": "/currency/eur",
+                "method": "GET"
+              }
+            }
+          ]
+        }
+      ],
+      "responses": [
+        {
+          "is": {
+            "body": {
+              "eur": {
+                "value": 37.12
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "predicates": [
+        {
+          "and": [
+            {
+              "equals": {
+                "path": "/currency/yena",
+                "method": "GET"
+              }
+            }
+          ]
+        }
+      ],
+      "responses": [
+        {
+          "is": {
+            "body": {
+              "yena": {
+                "value": 37.12
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "responses": [
+        {
+          "is": {
+            "statusCode": 401
+          }
+        }
+      ]
+    }
+  ]
+}
