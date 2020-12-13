@@ -12,7 +12,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 public class BrokenLink {
     public static Map<Integer, List<String>> getLinkAndCodes(String href) {
-        System.setProperty("webdriver.chrome.driver", "D:\\dev_source\\chromedriver\\chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver", "./common/chromedriver.exe");
         WebDriver driver = new ChromeDriver();
         driver.get(href);
 
