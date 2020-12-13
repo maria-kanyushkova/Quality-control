@@ -70,11 +70,11 @@ public class BrokenLinkTest {
     @Test
     public void fileTest() throws IOException {
         codes = BrokenLink.getLinkAndCodes("http://91.210.252.240/broken-links");
-        insertNewLinks(BrokenLink.getLinkAndCodes("http://91.210.252.240/broken-links/about.html"));
-        insertNewLinks(BrokenLink.getLinkAndCodes("http://91.210.252.240/broken-links/work.html"));
-        insertNewLinks(BrokenLink.getLinkAndCodes("http://91.210.252.240/broken-links/pricing.html"));
-        insertNewLinks(BrokenLink.getLinkAndCodes("http://91.210.252.240/broken-links/blog.html"));
-        insertNewLinks(BrokenLink.getLinkAndCodes("http://91.210.252.240/broken-links/contact.html"));
-        writeToFile();
+//        insertNewLinks(BrokenLink.getLinkAndCodes("http://91.210.252.240/broken-links/about.html"));
+//        insertNewLinks(BrokenLink.getLinkAndCodes("http://91.210.252.240/broken-links/work.html"));
+//        insertNewLinks(BrokenLink.getLinkAndCodes("http://91.210.252.240/broken-links/pricing.html"));
+//        insertNewLinks(BrokenLink.getLinkAndCodes("http://91.210.252.240/broken-links/blog.html"));
+//        insertNewLinks(BrokenLink.getLinkAndCodes("http://91.210.252.240/broken-links/contact.html"));
+//        writeToFile();
     }
 }
