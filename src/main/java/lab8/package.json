@@ -1,0 +1,12 @@
+{
+  "name": "lab8",
+  "version": "1.0.0",
+  "scripts": {
+    "init-mb": "mb",
+    "init-imposters": "node MockQuery.js",
+    "test-imposters": "node MockQueryTest.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
